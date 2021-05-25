@@ -1,12 +1,12 @@
 # Cross-lingual Text Classification with Heterogeneous Graph Neural Network
 
-Source code for our ACL-2021 paper: [Cross-lingual Text Classification with Heterogeneous Graph Neural Network]().
+Source code for our ACL-2021 paper: [Cross-lingual Text Classification with Heterogeneous Graph Neural Network](https://arxiv.org/abs/2105.11246).
 
 ### Dataset
 We use three public datasets, which can be downloaded from the links provided below:
 1. Amazon Review: [https://webis.de/data/webis-cls-10.html](https://webis.de/data/webis-cls-10.html)
 2. XGLUE News Classification: [https://microsoft.github.io/XGLUE/](https://microsoft.github.io/XGLUE/)
-3. Multilingual SLU: [https://fb.me/ multilingual_task_oriented_data](https://fb.me/ multilingual_task_oriented_data)
+3. Multilingual SLU: [https://fb.me/multilingual_task_oriented_data](https://fb.me/multilingual_task_oriented_data)
 
 We also provide the machine-translated texts we use in our experiments. This can be downloaded here: [Google Drive](https://drive.google.com/file/d/1Zu19AX--Ae-I8QsQYMTPbdgfMHOhthiN/view?usp=sharing), [腾讯微云](https://share.weiyun.com/4hGa9C44).
 
